@@ -1,0 +1,7 @@
+Age	Gender	Family History	Diet	Lifestyle	Cholesterol	Heart Disease
+Youth	Male	Yes	High	Athlete	High	No
+MiddleAged	Female	No	Medium	Sedetary	BorderLine	Yes
+SeniorCitizen	Male	Yes	Low	Active	Normal	No
+Teen	Female	Yes	High	Moderate	High	Yes
+SuperSeniorCitizen	Male	No	Low	Sedetary	High	Yes
+Youth	Female	No	Medium	Athlete	Normal	No
